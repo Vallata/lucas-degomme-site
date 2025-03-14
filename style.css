@@ -4,6 +4,8 @@ body {
 p {
   color: white;
   font-family: arial;
+  width: 30ch;
+  text-align: center;
 }
 
 .container-home {
@@ -22,5 +24,5 @@ p {
 }
 
 img {
-  width: 350px;
+  width: 320px;
 }
